@@ -1,15 +1,25 @@
 div {
-    width: 500px;
-    height: 100vw;
-    max-width: 200px;
-    font-size: 30px;
-    border: 5px solid black;
-    color: red;
-    font-family: 'Roboto Condensed', sans-serif;
-
-         
+  width: 500px;
+  height: 100vw;
+  max-width: 200px;
+  font-size: 30px;
+  border: 4px solid black;
+  color: red;
+  font-family: "Roboto Condensed", sans-serif;
 }
 
 h1 {
-    color: red;
+  color: red;
+}
+
+.red {
+    color:red;
+}
+
+.blue {
+    color: blue;
+}
+
+.black {
+    color: black; 
 }
